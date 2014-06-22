@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigReal.Utility", "BigReal.Utility\BigReal.Utility.csproj", "{AB065BE9-A032-4FF6-BE2D-FB54C54119BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigReal.Utility.Tests", "BigReal.Utility.Tests\BigReal.Utility.Tests.csproj", "{E0339239-299B-4903-81BF-D10A6ED93631}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assemblies", "Assemblies", "{3D825C89-2601-4D34-8392-85F6088406C8}"
+	ProjectSection(SolutionItems) = preProject
+		Assemblies\Interop.SQLDMO.dll = Assemblies\Interop.SQLDMO.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB065BE9-A032-4FF6-BE2D-FB54C54119BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB065BE9-A032-4FF6-BE2D-FB54C54119BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB065BE9-A032-4FF6-BE2D-FB54C54119BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB065BE9-A032-4FF6-BE2D-FB54C54119BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0339239-299B-4903-81BF-D10A6ED93631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0339239-299B-4903-81BF-D10A6ED93631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0339239-299B-4903-81BF-D10A6ED93631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0339239-299B-4903-81BF-D10A6ED93631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

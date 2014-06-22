@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HPYA.BasicInfrastructure.Guard" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAgAEAAAAAgAAAQAAAAAAAAAAAAIAAAAEAAAEAA=</HashCode>
+      <FileName>Guard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPYA.BasicInfrastructure.ReflectionHelper" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMABIAAAAAAAAAAAAAAAAhAAAEAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReflectionHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPYA.BasicInfrastructure.RegexHelper" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAQQAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>RegexHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPYA.BasicInfrastructure.StringHelper" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StringHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPYA.BasicInfrastructure.ImportExportHelper" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImportExportHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPYA.BasicInfrastructure.ExecuteHelper" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExecuteHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HPYA.BasicInfrastructure.TypeHelper" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TypeHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigReal.Utility.MD5Calculator" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>MD5Calculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigReal.Utility.ViewHeaderDictionaryHelper" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewHeaderDictionaryHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigReal.Utility.ExportDisplayAttribute" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\ExportDisplayAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigReal.Utility.RegisterHelper" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>RegisterHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigReal.Utility.EncryptionService" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAIAAAQAEAAAAAAAAAAAAAEAAAAAAAgAAAAACAA=</HashCode>
+      <FileName>EncryptionService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigReal.Utility.ConfigReaderWriter" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAgAAAAAAAAAAACAAAgEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConfigReaderWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigReal.Utility.CheckCodeHelper" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBAAAAAAAAAAAA=</HashCode>
+      <FileName>CheckCodeHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigReal.Utility.ErrorResultDataTable" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAoIAAAAACAAAAAAAAAAAIAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>ErrorResultDataTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigReal.Utility.LogHelper" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAABAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>LogHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigReal.Utility.JsonUtils" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAIIAAAAAAAAAA=</HashCode>
+      <FileName>JsonUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigReal.Utility.ImportHeaderAttribute" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAIAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImportHeaderAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigReal.Utility.ExcelHelper">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAIAAAAAAAAAAEAAAAAAAAAAAAAAACAEAAAAAAA=</HashCode>
+      <FileName>ExcelHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigReal.Utility.BaseEntity">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigReal.Utility.FileDialogHelper">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAABAAAAAAAAAA=</HashCode>
+      <FileName>FileDialogHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BigReal.Utility.MemoryCacheManager">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAgAAAABABAAAAABAAAAAAAAAAAACAAAABAAAA=</HashCode>
+      <FileName>MemoryCacheManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BigReal.Utility.PerRequestCacheManager">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAABABAAAAABAAAAAAAAgAAACAAAABAAAA=</HashCode>
+      <FileName>PerRequestCacheManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
