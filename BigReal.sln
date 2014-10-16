@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assemblies", "Assemblies", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceTemplateLib", "ServiceTemplateLib\ServiceTemplateLib.csproj", "{DF7ED341-4CD1-4E7B-B8F1-6E79C30CF2FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Express100", "Express100\Express100.csproj", "{1E033A59-0156-4311-B0BE-BEF1201C0128}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{DF7ED341-4CD1-4E7B-B8F1-6E79C30CF2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF7ED341-4CD1-4E7B-B8F1-6E79C30CF2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF7ED341-4CD1-4E7B-B8F1-6E79C30CF2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E033A59-0156-4311-B0BE-BEF1201C0128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E033A59-0156-4311-B0BE-BEF1201C0128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E033A59-0156-4311-B0BE-BEF1201C0128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E033A59-0156-4311-B0BE-BEF1201C0128}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

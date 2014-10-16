@@ -1,0 +1,5 @@
+F:\Git\BigReal\BigReal\ServiceTemplateLib\obj\Debug\ServiceTemplateLib.csprojResolveAssemblyReference.cache
+F:\Git\BigReal\BigReal\ServiceTemplateLib\bin\Debug\ServiceTemplateLib.dll
+F:\Git\BigReal\BigReal\ServiceTemplateLib\bin\Debug\ServiceTemplateLib.pdb
+F:\Git\BigReal\BigReal\ServiceTemplateLib\obj\Debug\ServiceTemplateLib.dll
+F:\Git\BigReal\BigReal\ServiceTemplateLib\obj\Debug\ServiceTemplateLib.pdb
