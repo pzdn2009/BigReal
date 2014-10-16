@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assemblies", "Assemblies", 
 		Assemblies\Interop.SQLDMO.dll = Assemblies\Interop.SQLDMO.dll
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceTemplateLib", "ServiceTemplateLib\ServiceTemplateLib.csproj", "{DF7ED341-4CD1-4E7B-B8F1-6E79C30CF2FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{E0339239-299B-4903-81BF-D10A6ED93631}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0339239-299B-4903-81BF-D10A6ED93631}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0339239-299B-4903-81BF-D10A6ED93631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7ED341-4CD1-4E7B-B8F1-6E79C30CF2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7ED341-4CD1-4E7B-B8F1-6E79C30CF2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7ED341-4CD1-4E7B-B8F1-6E79C30CF2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7ED341-4CD1-4E7B-B8F1-6E79C30CF2FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

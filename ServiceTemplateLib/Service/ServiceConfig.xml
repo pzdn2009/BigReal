@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Services>
+  <Service>
+    <!--服务名称-->
+    <Name>TEST+BYB</Name>
+    <!--目前只支持“时间轮询间隔”，默认为2000-->
+    <Interval>2000</Interval>
+    <!--工作类型-->
+    <Type>LogisticsTracking.BYB.BYBBusFlow,LogisticsTracking.BYB</Type>
+    <!--是否立即启动-->
+    <DoWorkAtStart>FALSE</DoWorkAtStart>
+    <!--只运行一次-->
+    <RunOnlyOnce>FALSE</RunOnlyOnce>
+  </Service>
+
+  <Service>
+    <!--服务名称-->
+    <Name>TEST+YanWen</Name>
+    <!--目前只支持“时间轮询间隔”，默认为2000-->
+    <Interval>2000</Interval>
+    <!--工作类型-->
+    <Type>LogisticsTracking.YanWen.YanWenBusFlow,LogisticsTracking.YanWen</Type>
+    <!--是否立即启动-->
+    <DoWorkAtStart>FALSE</DoWorkAtStart>
+    <!--只运行一次-->
+    <RunOnlyOnce>FALSE</RunOnlyOnce>
+  </Service>
+
+  <Service>
+    <!--服务名称-->
+    <Name>TEST+FourPX</Name>
+    <!--目前只支持“时间轮询间隔”，默认为2000-->
+    <Interval>2000</Interval>
+    <!--工作类型-->
+    <Type>LogisticsTracking.FourPX.FourPXBusFlow,LogisticsTracking.FourPX</Type>
+    <!--是否立即启动-->
+    <DoWorkAtStart>FALSE</DoWorkAtStart>
+    <!--只运行一次-->
+    <RunOnlyOnce>FALSE</RunOnlyOnce>
+  </Service>
+  
+</Services>
