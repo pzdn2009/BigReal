@@ -87,7 +87,6 @@
     <Compile Include="ErrorResultDataTable.cs" />
     <Compile Include="ExcelHelper.cs" />
     <Compile Include="Extensions\BooleanExtensions.cs" />
-    <Compile Include="Extensions\CommonExstension.cs" />
     <Compile Include="ConvertHelper.cs" />
     <Compile Include="DataTableUtility.cs" />
     <Compile Include="DebuggerShim.cs" />
